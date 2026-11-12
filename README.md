@@ -46,5 +46,5 @@ The system employs a dual testing approach:
 ## Disclaimer
 > **Note**: This system is an assistive tool for healthcare professionals and researchers. All AI-generated content should be reviewed by qualified experts before use in clinical decision-making.
 
----------------------------
+-------------------------------
 
